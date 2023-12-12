@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-cascadia-code-pl: "Cascadia Code PL";
+  --font-cascadia-code: "Cascadia Code";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-7xl: 26px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-gray-100: #030303;
+  --color-gray-200: rgba(255, 255, 255, 0.5);
+  --color-gainsboro: rgba(217, 217, 217, 0);
+  --color-white: #fff;
+  --color-palevioletred-100: #9d3d67;
+  --color-palevioletred-200: #8f2051;
+  --color-palevioletred-300: rgba(157, 61, 103, 0.5);
+  --color-mediumvioletred: #8c164a;
+
+  /* Gaps */
+  --gap-5xl: 24px;
+  --gap-4xs: 9px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-11xl: 30px;
+  --padding-2xl: 21px;
+
+  /* Border radiuses */
+  --br-81xl: 100px;
+  --br-21xl: 40px;
+  --br-xl: 20px;
+}
